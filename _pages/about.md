@@ -3,7 +3,7 @@ layout: page
 title: Conóceme
 ---
 
-### Screenshot
+### Image
 
 ![Image](image.png)
 
@@ -13,4 +13,7 @@ Soy un entusiasta de las tecnologías de la información y la participación ciu
 
 - Soporte IT
 - Desarrollo web
+- 
 
+### Contacto
+[Linkedin] (https://linkedin.com/in/andriuzha)
