@@ -3,10 +3,9 @@ layout: default
 title: Temas
 ---
 
-Escribo sobre:
-
 <section class="posts">
 	<h1>{{ page.title }}</h1>
+	<p>Escribo sobre:</p> 
 {% assign tags = site.tags | sort %}
 <ul>
 {% for tag in tags %}
