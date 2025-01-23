@@ -6,6 +6,7 @@ title: Temas
 <section class="posts">
 	<h1>{{ page.title }}</h1>
 	<p>Escribo sobre:</p> 
+	<br></br>
 {% assign tags = site.tags | sort %}
 <ul>
 {% for tag in tags %}
