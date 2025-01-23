@@ -16,4 +16,5 @@ Soy un entusiasta de las tecnologías de la información y la participación ciu
 - 
 
 ### Contacto
-[Linkedin] (https://linkedin.com/in/andriuzha)
+[Linkedin](https://linkedin.com/in/andriuzha)
+
