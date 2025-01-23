@@ -7,5 +7,7 @@ links:
   url: /search
 - title: Temas
   url: /tags
+- title: aviso
+  url: /disclaimer
 - title: Rss
   url: /atom.xml
