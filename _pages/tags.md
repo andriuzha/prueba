@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Tags
+title: Temas
 ---
+
+Escribo sobre:
 
 <section class="posts">
 	<h1>{{ page.title }}</h1>
